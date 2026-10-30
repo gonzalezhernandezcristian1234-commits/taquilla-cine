@@ -1,6 +1,6 @@
 export const catalogo = [
     {
-        titulo: "spider-man:bran new day",
+        titulo: "spider-man: brand new day",
         capacidad: 122,
         vendidas: 100,
         precio: 15,
