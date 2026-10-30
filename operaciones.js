@@ -19,5 +19,14 @@ if (cantidad > disponible) {
 pelicula.vendidas = pelicula.vendidas + cantidad;
 console.log("Venta exitosa" + cantidad + "boletos para" + pelicula.titulo);
 
+export function calcularTotalTaquilla() {
+    let total = 0
+    for (const pelicula of catalogo){
+        const ingresos = pelicual.vendidas * peliculas.precio;
+        total = total + ingresos;
+    }
+    return total 
+
+}
 
 
