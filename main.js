@@ -7,3 +7,7 @@ console.table(catalogo);
 console.log("Venta Exitosa!!!");
 venderEntradas ("spider-man: brand new day", 5)
 
+console.log("Venta que supera la calacidad");
+venderEntradas("dandadan" , 500)
+
+
