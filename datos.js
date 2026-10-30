@@ -2,13 +2,13 @@ export const catalogo = [
     {
         titulo: "spider-man: brand new day",
         capacidad: 122,
-        vendidas: 100,
+        vendidas: 115,
         precio: 15,
     },
     {
         titulo: "mazze runner: correr o morir",
         capacidad: 98,
-        vendidas: 75,
+        vendidas: 90,
         precio: 12
     },
     {
